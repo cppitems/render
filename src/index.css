@@ -1,0 +1,38 @@
+body {
+    min-width: 650px;
+    max-width: 650px;
+    margin: auto;
+}
+
+pre {
+    overflow: auto;
+}
+
+.vscode-light pre {
+    /* background: white; */
+
+    background-color: transparent;
+    color: black;
+}
+
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+details summary {
+    cursor: pointer;
+}
+
+details summary>* {
+    display: inline;
+}
+
+/* ::marker {
+    display: none;
+}
+
+summary {
+    list-style: none
+} */

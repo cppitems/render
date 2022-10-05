@@ -1,0 +1,59 @@
+/*
+
+Visual Studio-like style based on original C# coloring by Jason Diamond <jason@diamond.name>
+
+*/
+
+
+.language-cppitems {
+  color: black;
+}
+
+.language-cppitems .cppitems-string {
+  color: #695;
+}
+.language-cppitems .cppitems-meta .cppitems-string,
+.language-cppitems .cppitems-meta .cppitems-keyword,
+.language-cppitems .cppitems-number,
+.language-cppitems .cppitems-literal {
+  color: #695;
+}
+
+.language-cppitems .cppitems-meta {
+  color: #1f7199;
+}
+
+.language-cppitems .cppitems-comment {
+  color: #986232;
+}
+
+.language-cppitems .cppitems-hide {
+  display: none;
+}
+
+.language-cppitems .cppitems-r,
+.language-cppitems .cppitems-R {
+  color: #c01d24;
+}
+
+.language-cppitems .cppitems-k,
+.language-cppitems .cppitems-K {
+  color: #000000;
+}
+
+.language-cppitems .cppitems-b,
+.language-cppitems .cppitems-B {
+  color: #0040ff;
+}
+
+.language-cppitems .cppitems-g,
+.language-cppitems .cppitems-G {
+  color: #68d056;
+}
+
+.language-cppitems .cppitems-R,
+.language-cppitems .cppitems-B,
+.language-cppitems .cppitems-G,
+.language-cppitems .cppitems-K {
+  font-weight: bold;
+}
